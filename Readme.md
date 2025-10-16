@@ -38,7 +38,7 @@ Simply visit the [live demo](https://intel-medi-link.vercel.app) to use the appl
 
 ```bash
 # Clone the repository
-git clone https://github.com/jaisanth123/Intel_MediLink.git
+git clone https://github.com/RashmikaRamkumar/PW-II.git
 
 # Navigate to frontend directory
 cd Intel_MediLink/frontend
@@ -96,7 +96,7 @@ HF_TOKEN = user_secrets.get_secret("hf_token")
 login(token=HF_TOKEN)
 print("Successfully logged into Hugging Face!")
 # 3. Clone the repository
-!git clone https://github.com/jaisanth123/Intel_MediLink.git
+!git clone https://github.com/RashmikaRamkumar/PW-II.git
 # 4. Navigate to Python backend
 
 %cd Intel_MediLink/backend/python
