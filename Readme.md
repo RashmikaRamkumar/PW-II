@@ -1,4 +1,4 @@
-# 🏥 Intel MediLink
+# 🏥  MediLink
 
 [![Deployment Status](https://img.shields.io/badge/Frontend-Vercel-success)](https://intel-medi-link.vercel.app)
 
@@ -190,12 +190,6 @@ Set up the Hugging Face token in your Kaggle secrets:
 
 ---
 
-## 📞 Contact
-
-- 📱 Phone: +91 9944403749
-- 📧 Email: [jaisanth2006@gmail.com](mailto:jaisanth2006@gmail.com)
-- 💻 GitHub: [@jaisanth123](https://github.com/jaisanth123)
-- 🔗 Project Link: [Intel_MediLink](https://github.com/jaisanth123/Intel_MediLink)
 
 ---
 
